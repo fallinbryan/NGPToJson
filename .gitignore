@@ -1,0 +1,40 @@
+# Executables and Object files
+ngp2json
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
+
+
+# Visual Studio cache, build results, and other files
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln
+*.cache
+*.vshost.*
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+*.tlog
+*.log
+*.lastbuildstate
+*.err
+
+# Backup & Temporary files
+*~
+*.swp
+*.tmp
+*.temp
+
+
