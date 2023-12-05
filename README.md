@@ -38,7 +38,7 @@ Ensure you have a C++ compiler and make utility installed on your system. This p
 Run the utility with the path to your Nvidia Instant-NGP snapshot file:
 
 ```bash
-./ngp2json path/to/snapshot/file
+./ngp2json path/to/snapshot/file path/to/snapshot.json
 ```
 
 The utility will output a JSON file containing the trained NeRF model.
