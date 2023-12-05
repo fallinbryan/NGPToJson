@@ -59,9 +59,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - fallinbryan@gmail.com
+Bryan Fallin - fallinbryan@gmail.com
 
-Project Link: [https://github.com/your_username/your_project_name](https://github.com/your_username/your_project_name)
+Project Link: [https://github.com/fallinbryan/NGPToJson](https://github.com/fallinbryan/NGPToJson)
 
 ## Acknowledgments
 
@@ -69,12 +69,4 @@ Project Link: [https://github.com/your_username/your_project_name](https://githu
 - [nlohmann/json](https://github.com/nlohmann/json) for JSON handling
 - [zlib](https://zlib.net/) for decompression support
 - ChatGPT-4 by OpenAI for assistance with C++ code
-
-
-
-### Notes:
-
-- Replace `[Your Repository URL]`, `[Your Project Directory]`, `Your Name`, `[Your Email]`, `your_username`, and `your_project_name` with your actual repository URL, project directory name, your name, email, GitHub username, and project name, respectively.
-- If you have a license file, ensure it's named `LICENSE` in your repository, or adjust the README to match your license file's name.
-- Customize the `Acknowledgments` section with any other tools, libraries, or individuals you wish to acknowledge.
 
