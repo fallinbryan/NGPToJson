@@ -16,7 +16,7 @@ Nvidia Instant-NGP provides an option to save snapshots of trained NeRF models, 
 
 ### Prerequisites
 
-Ensure you have a C++ compiler and make utility installed on your system. This project also depends on `zlib` for decompression and `nlohmann/json` for JSON handling.
+Ensure you have a C++ compiler and make utility installed on your system. This project also includes `zlib` for decompression and `nlohmann/json` for JSON handling.
 
 ### Installation
 
