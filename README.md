@@ -26,7 +26,7 @@ Ensure you have a C++ compiler and make utility installed on your system. This p
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [Your Project Directory]
+   cd NGPToJson
    ```
 3. Compile the utility:
    ```bash
